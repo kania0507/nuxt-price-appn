@@ -1,0 +1,42 @@
+
+# Node modules
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Nuxt / Vue / Vite build output
+.nuxt/
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Optional: SQLite database file
+server/data.db
+
+# Optional: Drizzle migrations output
+server/drizzle/migrations/
+
+# Optional: coverage reports
+coverage/
