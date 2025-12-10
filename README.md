@@ -18,6 +18,8 @@ Umożliwia dodawanie produktów, obliczanie kwoty brutto i podatku VAT oraz prze
 
 # TO RUN DEV:
 > npm install
+> npx drizzle-kit generate
+> npx drizzle-kit push
 > npm run dev
 
 
