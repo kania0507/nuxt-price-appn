@@ -27,3 +27,5 @@ Umożliwia dodawanie produktów, obliczanie kwoty brutto i podatku VAT oraz prze
 **Autor:** AKC
 **Licencja:** MIT  
 Projekt udostępniony na zasadach licencji MIT. Możesz kopiować, modyfikować i używać kod w dowolnych projektach, pod warunkiem zachowania informacji o autorze i licencji.
+
+![KalkulatorVAT](./kalkulator_vat.jpg)
